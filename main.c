@@ -1,5 +1,5 @@
 /*
- * Hello World by C.
+ * Prints "Hello World" to console.
  */
 
 #include <stdio.h>
